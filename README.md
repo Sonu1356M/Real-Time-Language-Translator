@@ -13,11 +13,7 @@ A voice recognition-based tool for translating languages in real-time. This tool
  - Pygame Module
  - Googletrans (v3.1.0a0 Recommended)
 
- ## 03 System Architeture Diagram
-
- ![diagram](docs/media/1-system-architeture.png)
-
-## 04 Setup
+## 03 Setup
 
 - **Step 01:** Navigate to the following directory.
 
@@ -33,7 +29,7 @@ A voice recognition-based tool for translating languages in real-time. This tool
 
 
 
-## 05 Usage
+## 04 Usage
 
 - **Step 02:** Navigate to the source directory.
 
